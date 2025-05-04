@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Abhi Work Drive\\SampleProject\\test_dot_net\\Crypto-Box\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Crypto-Box.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Crypto-Box.mtlyjb0vgu.bundle.scp.css"
+    },
+    {
       "Id": "C:\\Abhi Work Drive\\SampleProject\\test_dot_net\\Crypto-Box\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
